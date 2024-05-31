@@ -1,4 +1,8 @@
 header .headline{
     font-size: 32px;
+    color:black;
+  }
+  .prohibited-implist-item{
     color: crimson;
+    font-size: 40px;
   }
