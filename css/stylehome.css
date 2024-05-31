@@ -10,6 +10,9 @@
   header .headline{
     font-size: 32px;
   }
+  header {
+    background: url(pics/headerlogo.jpg) center / cover;
+  }
   .nav-list {
     font-size: 20px;
     text-align: center;
