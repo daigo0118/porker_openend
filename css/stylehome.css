@@ -8,7 +8,7 @@
     text-align: center;
   }
   header .headline{
-    font-size: 32px;
+    font-size: 50px;
   }
 
   .head-img{
@@ -21,7 +21,7 @@
   }
 
   .nav-list {
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
     padding: 10px 0;
     margin: 0 auto;
@@ -40,6 +40,6 @@
  }
 
  .area-img{
-  width: 100px;
-  height: 150px;
+  width: 35%;
+  height: 35%;
  }
